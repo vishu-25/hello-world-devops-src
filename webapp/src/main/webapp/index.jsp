@@ -39,11 +39,5 @@
 <html>
   <h1>Hello!</h1>
   <h2>Welcome to DevOps projects</h2>
-  <h3>test</h3>
-  <h4>Test-2</h4>
-  <h4>Test-3</h4>
-  <h4>Test-4</h4>
-  <h4>test-5</h4>
-  <h4>test-6</h4>
 </html>
 
